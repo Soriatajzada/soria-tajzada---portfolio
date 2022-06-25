@@ -16,7 +16,7 @@
     margin: 10px 10px;
 }
 .home-page {
-    background: url(./images/background-logo.png) no-repeat rgba(0,0,0,0.4) ;
+    background: url(./background-logo.png) no-repeat rgba(0,0,0,0.4) ;
     background-size: 100%;
 }
 .home-page .container {
@@ -111,7 +111,7 @@ footer {
     width: 700px;
     height: 300px;
     border-radius: 10px;
-    background: url(./images/project-1.png) no-repeat;
+    background: url(./project-1.png) no-repeat;
     background-size: 100%;
     margin: 30px 0;
 }
@@ -121,7 +121,7 @@ footer {
     height: 300px;
     border-radius: 10px;
     margin: 50px 0 50px 280px;
-    background: url(./images/project-2.png) no-repeat;
+    background: url(./project-2.png) no-repeat;
     background-size: 100%;
 }
 
@@ -130,7 +130,7 @@ footer {
     height: 300px;
     border-radius: 10px;
     margin: 30px 0;
-    background: url(./images/project-3.png) no-repeat;
+    background: url(./project-3.png) no-repeat;
     background-size: 100%;
 }
 
